@@ -1,5 +1,3 @@
-"""Fetch books from the OpenLibrary API, keep those published after 2000,
-and save them to a CSV file."""
 
 import csv
 
